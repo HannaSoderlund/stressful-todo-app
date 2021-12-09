@@ -132,7 +132,7 @@ const buildPage = async () => {
     addCompletedEventListener()
     addDeleteCompletedEventListener()
     addTagButtonEventListener()
-    christmasCounter()
+    // christmasCounter()
     document.getElementById('new-todo-description').value = ''
 }
 
