@@ -1,0 +1,32 @@
+[{
+  "_id": {
+    "$oid": "61a62e64b3f2deaf11219238"
+  },
+  "description": "Dig out the decorations and check if the lights still work",
+  "completed": false,
+  "tags": [
+    "important",
+    "urgent"
+  ]
+},{
+  "_id": {
+    "$oid": "61a62ee1b3f2deaf1121923a"
+  },
+  "description": "Collect opinions about the Christmas wine",
+  "completed": false,
+  "tags": [
+    "urgent"
+  ]
+},{
+  "_id": {
+    "$oid": "61a62f09b3f2deaf1121923b"
+  },
+  "description": "Confirm if playlist can include Swedish songs",
+  "completed": false
+},{
+  "_id": {
+    "$oid": "61a64c186980f60da8017659"
+  },
+  "description": "Ham or turkey decision making",
+  "completed": true
+}]
