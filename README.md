@@ -1,5 +1,6 @@
 # A Stressful Christmas Todo app
-An exercise to practice using Node.js and MongoDB with the Controller-Services pattern and Express for routing.
+An exercise to practice using Node.js and MongoDB with the Controller-Services pattern and Express for routing. 
+This was my first project using this tech stack, and I was pleased to be able to apply what I learnt building a [Stock Tracking API](https://github.com/iO-Academy/2021-aug-stock) with my iO Academy Scrum team.
 
 ## Get the API running:
 - Make sure you have `node` installed on your machine
